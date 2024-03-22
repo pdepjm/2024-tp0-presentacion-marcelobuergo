@@ -5,11 +5,10 @@
 
 ### Legajo: 213.532-2
 
-#### Sobre mí:
-
 Tengo 19 años. Es mi segundo año en la carrera.
 
-Me recibí como tecnico en computacion en 2022 y habiendome gustado la orientación, en especial todo lo relacionado a las **bases de datos**, decidí seguir la carrera de Ingenieria en Sistemas en esta universidad por recomendación de mi hermano mayor que también está en la carrera. También tengo un certificado B2 de inglés del cual pienso sacar provecho en este campo.
+#### ¿Por qué sistemas?
+En 2022 me egresé como tecnico en computación y habiendome gustado la orientación, en especial todo lo relacionado a las **bases de datos**, decidí seguir la carrera de Ingenieria en Sistemas en esta universidad por recomendación de mi hermano mayor que también está en la carrera. También tengo un certificado B2 de inglés del cual pienso sacar provecho en este campo.
 
 
 #### Datazos:
